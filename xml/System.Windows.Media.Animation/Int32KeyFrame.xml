@@ -280,7 +280,7 @@
       </ReturnValue>
       <Docs>
         <summary>See <see cref="P:System.Windows.Media.Animation.IKeyFrame.Value" />.</summary>
-        <value>To be added.</value>
+        <value>The current value for this property.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>

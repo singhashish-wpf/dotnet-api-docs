@@ -398,7 +398,15 @@
       <Docs>
         <summary>Returns the container element used to display the next item.</summary>
         <returns>A DependencyObject that is the container element which is used to display the next item.</returns>
-        <remarks>To be added.</remarks>
+        <remarks>
+          <format type="text/markdown"><![CDATA[
+
+## Remarks
+
+This member is an explicit interface member implementation. It can be used only when the <xref:System.Windows.Controls.ItemContainerGenerator> instance is cast to an <xref:System.Windows.Controls.Primitives.IItemContainerGenerator> interface.
+
+          ]]></format>
+        </remarks>
       </Docs>
     </Member>
     <Member MemberName="System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext">
